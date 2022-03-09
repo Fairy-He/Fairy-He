@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Fairy-He～
-- 👀 I’m interested in music.
-- 🌱 I’m currently learning Bioinformatics。
+- 💓 My favarites are Accusefive, pink ice-cream, blue sky, and foolish fox.
+- 😞 I hate: what prevent me from my favorites.
 - 📫 hezq19@mails.tsinghua.edu.cn
+ 
 
 <!---
 Fairy-He/Fairy-He is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
